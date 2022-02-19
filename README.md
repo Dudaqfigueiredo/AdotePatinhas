@@ -1,6 +1,6 @@
 <h1>Adote Patinhas</h1>
 
-<h5>Essa é uma página de um abrigo que um dia eu gostaria de criar. A página conta com um menu principal com gif e endereço do Google Maps. Também tem uma página de doação e contatos com botões que levam diretamente ao whatsapp ou instagram do abrigo, por exemplo. Também possui uma página com todos os cachorros para adoção e informações sobre cada um deles!</h5>
+<h5>Essa é uma página de um abrigo que um dia eu gostaria de criar. A página conta com um menu principal com gif e endereço do Google Maps. Também tem uma página de doação e contatos com botões que levam diretamente ao whatsapp ou instagram do abrigo, por exemplo. Também possui uma página com todos os cachorros para adoção e informações sobre cada um deles! Adote um aumiguinho.</h5>
 
 <br><br>
 <h2>Meu principal:</h2>
